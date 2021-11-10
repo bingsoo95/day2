@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="801dd94e-288f-4d43-939e-a3ffe97b74e8" name="Changes" comment="day2">
+      <change afterPath="$PROJECT_DIR$/arrEx3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marrEx1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notTest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sortEx.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,23 +46,23 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="16.13.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="16.11.7" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day22" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day1" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.lottoGen.js">
-    <configuration name="arrEx1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arrEx1.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.ex10.js">
+    <configuration name="arrEx3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arrEx3.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="lottoGen2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/lottoGen2.js" working-dir="$PROJECT_DIR$">
+    <configuration name="ex10.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ex10.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="lottoGen.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/lottoGen.js" working-dir="$PROJECT_DIR$">
+    <configuration name="marrEx1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/marrEx1.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="test2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test2.js" working-dir="$PROJECT_DIR$">
+    <configuration name="sortEx.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/sortEx.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test.js" working-dir="$PROJECT_DIR$">
@@ -63,10 +70,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.lottoGen.js" />
-        <item itemvalue="Node.js.lottoGen2.js" />
-        <item itemvalue="Node.js.arrEx1.js" />
-        <item itemvalue="Node.js.test2.js" />
+        <item itemvalue="Node.js.ex10.js" />
+        <item itemvalue="Node.js.sortEx.js" />
+        <item itemvalue="Node.js.marrEx1.js" />
+        <item itemvalue="Node.js.arrEx3.js" />
         <item itemvalue="Node.js.test.js" />
       </list>
     </recent_temporary>
@@ -87,6 +94,7 @@
       <workItem from="1636453776509" duration="21000" />
       <workItem from="1636453814583" duration="63000" />
       <workItem from="1636453939302" duration="1159000" />
+      <workItem from="1636503866503" duration="16493000" />
     </task>
     <task id="LOCAL-00001" summary="day2">
       <created>1636447573363</created>
