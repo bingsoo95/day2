@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="801dd94e-288f-4d43-939e-a3ffe97b74e8" name="Changes" comment="day2">
-      <change afterPath="$PROJECT_DIR$/arrEx3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex10.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marrEx1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notTest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sortEx.js" afterDir="false" />
+    <list default="true" id="801dd94e-288f-4d43-939e-a3ffe97b74e8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/homework.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/marrEx1.js" beforeDir="false" afterPath="$PROJECT_DIR$/marrEx1.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,17 +41,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="16.13.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="16.11.7" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.ex10.js">
+  <component name="RunManager" selected="Node.js.homework.js">
     <configuration name="arrEx3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arrEx3.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="ex10.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ex10.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="homework.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/homework.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="marrEx1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/marrEx1.js" working-dir="$PROJECT_DIR$">
@@ -65,16 +63,13 @@
     <configuration name="sortEx.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/sortEx.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.homework.js" />
+        <item itemvalue="Node.js.marrEx1.js" />
         <item itemvalue="Node.js.ex10.js" />
         <item itemvalue="Node.js.sortEx.js" />
-        <item itemvalue="Node.js.marrEx1.js" />
         <item itemvalue="Node.js.arrEx3.js" />
-        <item itemvalue="Node.js.test.js" />
       </list>
     </recent_temporary>
   </component>
@@ -95,6 +90,7 @@
       <workItem from="1636453814583" duration="63000" />
       <workItem from="1636453939302" duration="1159000" />
       <workItem from="1636503866503" duration="16493000" />
+      <workItem from="1636533373961" duration="3342000" />
     </task>
     <task id="LOCAL-00001" summary="day2">
       <created>1636447573363</created>
@@ -110,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636448068074</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="day2">
+      <created>1636533490873</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1636533490873</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
