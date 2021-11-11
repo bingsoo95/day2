@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="801dd94e-288f-4d43-939e-a3ffe97b74e8" name="Changes" comment="day2">
-      <change afterPath="$PROJECT_DIR$/homeWork1111.js" afterDir="false" />
+    <list default="true" id="801dd94e-288f-4d43-939e-a3ffe97b74e8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrEx3.js" beforeDir="false" afterPath="$PROJECT_DIR$/arrEx3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework.js" beforeDir="false" afterPath="$PROJECT_DIR$/homework.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,17 +46,17 @@
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.arrEx3.js">
+  <component name="RunManager" selected="Node.js.homework.js">
     <configuration name="arrEx3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arrEx3.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="fn1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/fn1.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="homeWork1111.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/homeWork1111.js" working-dir="$PROJECT_DIR$">
+    <configuration name="ex10.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ex10.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="homework.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/homework.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="marrEx1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/marrEx1.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="sortEx.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/sortEx.js" working-dir="$PROJECT_DIR$">
@@ -65,11 +64,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.arrEx3.js" />
-        <item itemvalue="Node.js.sortEx.js" />
         <item itemvalue="Node.js.homework.js" />
-        <item itemvalue="Node.js.homeWork1111.js" />
-        <item itemvalue="Node.js.fn1.js" />
+        <item itemvalue="Node.js.marrEx1.js" />
+        <item itemvalue="Node.js.ex10.js" />
+        <item itemvalue="Node.js.sortEx.js" />
+        <item itemvalue="Node.js.arrEx3.js" />
       </list>
     </recent_temporary>
   </component>
@@ -92,9 +91,6 @@
       <workItem from="1636503866503" duration="16493000" />
       <workItem from="1636533373961" duration="3519000" />
       <workItem from="1636542357711" duration="2096000" />
-      <workItem from="1636590901967" duration="4686000" />
-      <workItem from="1636596626587" duration="14536000" />
-      <workItem from="1636639720153" duration="4033000" />
     </task>
     <task id="LOCAL-00001" summary="day2">
       <created>1636447573363</created>
@@ -124,14 +120,7 @@
       <option name="project" value="LOCAL" />
       <updated>1636541691522</updated>
     </task>
-    <task id="LOCAL-00005" summary="day2">
-      <created>1636619186866</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1636619186866</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,23 +168,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="day2" />
     <option name="LAST_COMMIT_MESSAGE" value="day2" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/arrEx3.js</url>
-          <line>39</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-    <watches-manager>
-      <inline-watch fileUrl="file://$PROJECT_DIR$/arrEx3.js" line="9">
-        <watch expression="sum" language="JavaScript" />
-      </inline-watch>
-    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
