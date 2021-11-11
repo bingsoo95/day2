@@ -26,6 +26,7 @@ for (let i = 0; i < arr.length ; i++) {
     }
 }
 console.log(`MIN: ${min}`)
+
 //최고
 let max = -1
 
